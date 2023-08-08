@@ -1,4 +1,4 @@
-# Project Name:Nike Landing Page 
+# Project Name: First task js
 ### What is the goal of this website?
 For this Exercise,
 we will be working with the users object containing information about different users.
