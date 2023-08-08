@@ -1,4 +1,4 @@
-# Project Name: First task js
+# Project Name: First java script task.
 ### What is the goal of this projcet?
 For this Exercise,
 #### we will be working with the users object containing information about different users.
