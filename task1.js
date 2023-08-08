@@ -1,4 +1,3 @@
-
 const users = {
     Alex: {//sub obj1 لمستخدم اسمه اليكس
       email: "alex@alex.com",
@@ -118,17 +117,19 @@ function findnum(users){
    
 
     //task4:
-    function task4(user){
-    function findMern2 (user){
-      let m=[];
-      for(const key in  users )
-      {m[m.length]=dev}
-      let MERN=m.filter((user)=>{const reqskill=['MongoDB',"Express","React","Node"]
-    return reqskill.every((skill)=>users[user].skills.includes(skill))})
-    console.log(MERN ,"are MERN stack developers")
-    }}
+   function findmern(users) {
+  let m=[]
+  for(const dev in  users )
+  {m[m.length]=dev}
 
-    
+let s=m.filter((user)=>{
+  const al=['MongoDB',"Express","React","Node"]
+  return al.every((skill)=>users[user].skills.includes(skill))
+})
+
+  console.log(s);}
+
+
       
 
 
@@ -175,7 +176,7 @@ findMERN(users)
 console.log('.....................................................................................')
 console.log('task 4:')
 console.log()
-task4(users)
+findmern(users)
 console.log('.....................................................................................')
 console.log('task 5:')
 console.log("-Print the updated users object with your name added ?")
