@@ -1,5 +1,5 @@
 # Project Name: First task js
-### What is the goal of this website?
+### What is the goal of this projcet?
 For this Exercise,
 #### we will be working with the users object containing information about different users.
 #### The users object is provided in the attached text file:
